@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohamdas194
-- 👀 I’m interested in Java Full Stack roles
-- 🌱 I’m currently learning Reactive programming
+- 👀 I’m interested in Embedded roles
+- 🌱 I’m currently learning Embedded programming
 - 💞️ I’m looking to collaborate on games or any fun projects
 - 📫 How to reach me sohamdas194@gmail.com
 
